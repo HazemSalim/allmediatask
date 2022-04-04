@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\AllMediaDesk\bin\Debug\AllMediaDesk.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AllMediaDesk\bin\Debug\AllMediaDesk.exe
+c:\users\user\documents\visual studio 2015\Projects\AllMediaDesk\bin\Debug\AllMediaDesk.pdb
+c:\users\user\documents\visual studio 2015\Projects\AllMediaDesk\obj\Debug\AllMediaDesk.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AllMediaDesk\obj\Debug\AllMediaDesk.exe
+c:\users\user\documents\visual studio 2015\Projects\AllMediaDesk\obj\Debug\AllMediaDesk.pdb
